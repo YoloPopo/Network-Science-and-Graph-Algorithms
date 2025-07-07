@@ -10,7 +10,6 @@ Each notebook is structured as a practical assignment, complete with theoretical
 ## Key Features
 
 *   **Comprehensive Coverage:** Spans the full spectrum of graph analytics, from classic network properties and generative models to modern deep learning on graphs.
-*   **Hands-On Learning:** Filled with coding exercises (`# YOUR CODE HERE`) that challenge the user to implement algorithms from scratch, reinforcing theoretical understanding.
 *   **Practical Applications:** Explores real-world problems and datasets, including social networks, epidemic modeling, knowledge graphs, and link prediction.
 *   **Modern Techniques:** Includes dedicated notebooks on Graph Embeddings (DeepWalk, Node2Vec), Knowledge Graph Embeddings (TransE), and a full suite of Graph Neural Networks (GCN, GAE, GAT, GraphSAGE).
 *   **Standard Tooling:** Utilizes industry-standard libraries such as `NetworkX`, `scikit-learn`, `PyTorch`, and the Deep Graph Library (`DGL`).
