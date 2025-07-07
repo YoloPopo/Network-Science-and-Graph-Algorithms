@@ -1,0 +1,32 @@
+# Requirements for the Graph Science & Machine Learning Notebooks repository
+#
+# Install these dependencies using pip:
+# pip install -r requirements.txt
+# -----------------------------------------------------------------------------
+
+# Core Data Science & Numerical Computation
+numpy
+pandas
+scipy
+scikit-learn
+
+# Network Analysis
+networkx
+
+# Visualization
+matplotlib
+seaborn
+
+# Deep Learning & Graph ML
+# Note: PyTorch and DGL installation can be hardware-specific (e.g., for CUDA).
+# If the versions below cause issues, please visit their official websites for commands
+# tailored to your system.
+# - PyTorch: https://pytorch.org/get-started/locally/
+# - DGL: https://www.dgl.ai/pages/start.html
+torch
+dgl
+torchkge==0.16.25 # Pinning to the version specified in the notebook
+
+# Utilities
+requests
+tqdm
