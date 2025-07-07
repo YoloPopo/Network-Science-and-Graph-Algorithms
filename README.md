@@ -107,8 +107,8 @@ The final part covers modern techniques for learning low-dimensional representat
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone git@github.com:YoloPopo/Network-Science-and-Graph-Algorithms.git
+    cd Network-Science-and-Graph-Algorithms
     ```
 
 2.  **Create a virtual environment (recommended):**
